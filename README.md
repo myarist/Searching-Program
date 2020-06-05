@@ -1,6 +1,6 @@
 # Searching Program
 
-This is just a small project of artificial intelligence material.
+This is just a small project of artificial intelligence project.
 
 ## Getting Started
 
@@ -40,7 +40,7 @@ Select the **Searching Program.py** at your machine. Then open with Python (with
 
 ![Start](https://github.com/MyArist/Searching_Program/blob/master/Pictures/start.png)
 
-It brings up several menus as follows:
+When opened, it brings up several menus as follows:
 
 Code | Menu | Function
 :---: | :---: | ---
@@ -50,3 +50,13 @@ C | Cari | Searching for the stored data
 G | Gambar | Making a graphic from the data
 R | Reset | Delete all data
 K | Keluar | Exit the program
+
+![Search](https://github.com/MyArist/Searching_Program/blob/master/Pictures/search.png)
+
+The **Searching Programs** that are in here, among others:
+
+Code | Searching Programs
+:---: | :---:
+(B) | Breadth First Search
+(D) | Depth First Search
+(U) | Uniform Cost Seacrh
