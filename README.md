@@ -38,4 +38,15 @@ Select the **Searching Program.py** at your machine. Then open with Python (with
 
 ## Testing
 
-Here
+![Start](https://github.com/MyArist/Searching_Program/blob/master/Pictures/start.png)
+
+It brings up several menus as follows:
+
+Code | Menu | Function
+:---: | :---: | ---
+D | Data Romania | Adding Romanian data directly
+T | Tambah | Adding data one by one
+C | Cari | Searching for the stored data
+G | Gambar | Making a graphic from the data
+R | Reset | Delete all data
+K | Keluar | Exit the program
