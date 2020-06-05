@@ -10,7 +10,7 @@ These instructions will give you a copy of the project up and run it on your loc
 
 Download [the latest python](https://www.python.org/downloads/) on its official website.
 
-![Python Download](https://kelasprogrammer.com/wp-content/uploads/2020/04/Download-python-1024x455.png)
+![Python Download](https://github.com/MyArist/Searching_Program/blob/master/Pictures/python%20web.png)
 
 ### Installing Python
 
