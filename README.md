@@ -16,15 +16,15 @@ Download [the latest python](https://www.python.org/downloads/) on its official 
 
 Here, I use python version 3.8.2.
 
-![Python Installation](https://kelasprogrammer.com/wp-content/uploads/2020/04/instalasi-python-tahap-1-660x413.png)
+![Python Installation](https://github.com/MyArist/Searching_Program/blob/master/Pictures/Installasi.png)
 
 ### Installing the Library
 
 Make sure that the **networkx** library is installed on your machine.
 
-![Networkx](https://graphsandnetworks.com/wp-content/uploads/2019/10/NetworkXOverview_6_1.png)
+![Grafik](https://github.com/MyArist/Searching_Program/blob/master/Pictures/grafik.png)
 
-This is used to generate graphs which function are not provided by Python.
+This library is used to generate graphs which function are not provided by Python.
 
 ### Download the File
 
@@ -32,9 +32,9 @@ Download the [Searching Program.py](https://github.com/MyArist/Searching_Program
 
 ### Open File
 
-Select the **Searching Program.py** at your machine.
+Select the **Searching Program.py** at your machine. Then open with Python (with the rocket icon inside)
 
-
+![Open](https://github.com/MyArist/Searching_Program/blob/master/Pictures/open.png)
 
 ## Testing
 
