@@ -51,8 +51,6 @@ G | Gambar | Making a graphic from the data
 R | Reset | Delete all data
 K | Keluar | Exit the program
 
-![Search](https://github.com/MyArist/Searching_Program/blob/master/Pictures/search.png)
-
 The **Searching Programs** that are in here, among others:
 
 Code | Searching Programs
