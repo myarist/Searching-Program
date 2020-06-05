@@ -18,7 +18,7 @@ Here, I use python version 3.8.2.
 
 ![Python Installation](https://github.com/MyArist/Searching_Program/blob/master/Pictures/Installasi.png)
 
-### Installing the Library
+### Installing Library
 
 Make sure that the **networkx** library is installed on your machine.
 
@@ -26,7 +26,7 @@ Make sure that the **networkx** library is installed on your machine.
 
 This library is used to generate graphs which function are not provided by Python.
 
-### Download the File
+### Download File
 
 Download the [Searching Program.py](https://github.com/MyArist/Searching_Program/blob/master/Searching%20Program.py) file in my repository.
 
