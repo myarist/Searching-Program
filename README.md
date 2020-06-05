@@ -10,19 +10,19 @@ These instructions will give you a copy of the project up and run it on your loc
 
 Download [the latest python](https://www.python.org/downloads/) on its official website.
 
-![Python Download](https://github.com/MyArist/Searching_Program/blob/master/Pictures/python%20web.png)
+![Python Download](https://github.com/MyArist/Searching_Program/blob/master/README/python%20web.png)
 
 ### Installing Python
 
 Here, I use python version 3.8.2.
 
-![Python Installation](https://github.com/MyArist/Searching_Program/blob/master/Pictures/Installasi.png)
+![Python Installation](https://github.com/MyArist/Searching_Program/blob/master/README/Installasi.png)
 
 ### Installing Library
 
 Make sure that the **networkx** library is installed on your machine.
 
-![Grafik](https://github.com/MyArist/Searching_Program/blob/master/Pictures/grafik.png)
+![Grafik](https://github.com/MyArist/Searching_Program/blob/master/README/grafik.png)
 
 This library is used to generate graphs which function are not provided by Python.
 
@@ -34,11 +34,11 @@ Download the [Searching Program.py](https://github.com/MyArist/Searching_Program
 
 Select the **Searching Program.py** at your machine. Then open with Python (with the rocket icon inside)
 
-![Open](https://github.com/MyArist/Searching_Program/blob/master/Pictures/open.png)
+![Open](https://github.com/MyArist/Searching_Program/blob/master/README/open.png)
 
 ## Testing
 
-![Start](https://github.com/MyArist/Searching_Program/blob/master/Pictures/start.png)
+![Start](https://github.com/MyArist/Searching_Program/blob/master/README/start.png)
 
 When opened, it brings up several menus as follows:
 
